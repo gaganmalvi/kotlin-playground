@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">About</string>
+    <string name="user">Gagan Malvi</string>
+    <string name="job">The Styx Project</string>
 </resources>
