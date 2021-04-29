@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val imageview = findViewById<ImageView>(R.id.imageview)
-        val image = "https://github.com/gaganmalvi/gaganmalvi/raw/master/nyan.gif"
+        val image = "https://avatars.githubusercontent.com/u/26477157"
         Glide.with(this)
              .load(image)
              .into(imageview)
