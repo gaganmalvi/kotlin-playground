@@ -25,7 +25,6 @@
         android:fontFamily="@font/inter"
         android:text="@string/user"
         android:textAlignment="center"
-        android:textColor="@color/black"
         android:textSize="25sp"
         app:layout_constraintTop_toBottomOf="@id/imageview"
         tools:layout_editor_absoluteX="0dp" />
